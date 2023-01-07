@@ -1,1 +1,1 @@
-# Stepik-Fundamentals-of-Data-Analysis-in-Python
+# Мои решения задач из курса на Stepik - "Основы анализа данных в Python" от МГИМО
